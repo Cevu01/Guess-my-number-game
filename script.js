@@ -41,6 +41,8 @@ document.querySelector('.check').addEventListener('click', function () {
       highscore = score;
       document.querySelector('.highscore').textContent = highscore;
       console.log('Welcome');
+      alert('HACKED');
+      console.log('hello');
     }
 
     // When guess is wrong
